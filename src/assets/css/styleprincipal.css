@@ -496,6 +496,9 @@ header a:hover{
     animation-delay: 1s !important;
 }
 
+.slider .description{
+    width: 450px;
+}
 
 
 .slider.next .list .item:nth-child(1) img{
